@@ -204,9 +204,9 @@
   "public_lobby": {
     "join": "次のゲームに参加",
     "waiting": "人が参加しています...",
-    "teams_Duos": "デュオ（2つのチーム）",
-    "teams_Trios": "トリオ（3つのチーム）",
-    "teams_Quads": "クワッド（4つのチーム）",
+    "teams_Duos": "デュオ（2人のチーム）",
+    "teams_Trios": "トリオ（3人のチーム）",
+    "teams_Quads": "クワッド（4人のチーム）",
     "teams": "{num}チーム"
   },
   "username": {
